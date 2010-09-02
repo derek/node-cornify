@@ -1,7 +1,9 @@
 cornify
 ========
 
-cornify is a super magical module for NodeJS
+cornify is a super magical unicorn module for NodeJS based off the cornify.com.
+
+Don't let you server-side JavaScript be left without your trusty one-horned sidekick, add a few corns in today!
 
 Installing cornify
 -------------------
@@ -22,6 +24,7 @@ Use within Node
 
 A basic example
 
+![](http://s89997654.onlinehome.us/screencaps/example.js-20100902-003742.jpg)
 ![](http://s89997654.onlinehome.us/screencaps/Default-20100902-002804.jpg)
 
 cornify.addCorn()
