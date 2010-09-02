@@ -24,8 +24,7 @@ Use within Node
 
 A basic example
 
-![](http://s89997654.onlinehome.us/screencaps/example.js-20100902-003742.jpg)
-![](http://s89997654.onlinehome.us/screencaps/Default-20100902-002804.jpg)
+![](http://s89997654.onlinehome.us/screencaps/Default-20100902-005708.jpg)
 
 cornify.addCorn()
 ----------
