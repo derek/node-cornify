@@ -1,0 +1,16 @@
+{ 
+  "name" : "cornify"
+, "description" : "A super magical unicorn module"
+, "url" : "http://github.com/drgath/cornify"
+, "author" : "Derek Gathright <drgath@gmail.com>"
+, "contributors" : [ ]
+, "version" : "0.1.0"
+, "keywords" : ["cornify"]
+, "main" : "./lib/cornify"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/drgath/cornify.git"
+  }
+, "directories" : { "lib" : "./lib/" }
+, "engines" : { "node" : ">=0.2.0" }
+}
